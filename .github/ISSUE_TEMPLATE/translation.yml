@@ -1,0 +1,63 @@
+name: Translation fix / 翻訳の修正
+description: Report a sentence that sounds wrong or unnatural / 不自然な文を報告する
+title: "[translation] "
+labels: ["translation"]
+body:
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language / 言語
+      options:
+        - English (en)
+        - 日本語 (ja)
+        - Español (es)
+        - 简体中文 (zh)
+        - 繁體中文 (zh-tw)
+        - हिन्दी (hi)
+        - العربية (ar)
+        - Français (fr)
+        - Português (pt)
+        - Русский (ru)
+        - Bahasa Indonesia (id)
+        - Deutsch (de)
+        - 한국어 (ko)
+        - Türkçe (tr)
+        - Tiếng Việt (vi)
+        - Italiano (it)
+        - ไทย (th)
+        - Polski (pl)
+        - Українська (uk)
+        - Nederlands (nl)
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where did you see it? / どのページ・どの場所か
+      description: A page address, or the key name in lang/<code>.json if you know it.
+      placeholder: https://datesealed.com/fr/terms
+  - type: textarea
+    id: current
+    attributes:
+      label: The sentence as it is now / 今の文
+    validations:
+      required: true
+  - type: textarea
+    id: suggested
+    attributes:
+      label: How it should read / こう直してほしい
+    validations:
+      required: true
+  - type: dropdown
+    id: native
+    attributes:
+      label: Is this your first language? / 母語ですか
+      options:
+        - "Yes / はい"
+        - "No, I speak it well / いいえ、よく使える"
+        - "No / いいえ"
+  - type: input
+    id: credit
+    attributes:
+      label: Name to credit (optional) / クレジットに載せる名前(任意)
+      description: Leave empty if you prefer not to be listed.
