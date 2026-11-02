@@ -16,7 +16,7 @@ Thank you. A few rules keep the translations safe and consistent.
 python scripts/validate_lang.py fr
 ```
 
-prints `ok` when keys, order and basic rules are fine. You do not have to run it; we run it before using a change.
+prints `ok` when keys, order and basic rules are fine. A pull request runs the same check automatically, so you do not have to.
 
 ## Licence and credit
 

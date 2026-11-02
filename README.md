@@ -10,7 +10,7 @@ Open an [issue with the translation form](../../issues/new/choose), pick the lan
 
 ## Editing the files yourself
 
-Every language is one file in [`lang/`](lang/) (`ja.json`, `fr.json`, …). The English file, [`lang/en.json`](lang/en.json), is the source. You can edit a file in your browser (the pencil icon on GitHub) and open a pull request. We check each change before using it (keys, key order, leftover English sentences, and the legal wording).
+Every language is one file in [`lang/`](lang/) (`ja.json`, `fr.json`, …). The English file, [`lang/en.json`](lang/en.json), is the source. You can edit a file in your browser (the pencil icon on GitHub) and open a pull request. A check runs automatically and tells you if something is off (a missing key, a leftover English sentence, and so on); we also read each change before using it.
 
 ## Please keep
 
