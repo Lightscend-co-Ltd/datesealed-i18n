@@ -30,15 +30,15 @@ Besser als nichts ist jedes davon. Aber keines beantwortet die Frage „Hätten 
 2. Prüfen Sie den angezeigten SHA-256 und klicken Sie auf die Schaltfläche, um ihn festzuhalten. Der Hash wird in Ihrem Browser berechnet; Datei oder Text werden nicht übertragen.
 3. Die Nachweisseite öffnet sich. Laden Sie die `.tsr` (signierter Zeitstempel) und die `.ots` (Bitcoin-Nachweis) herunter und bewahren Sie beide **zusammen mit der Originaldatei** auf.
 
-Jeder Eintrag erhält zwei Daten: einen RFC-3161-Zeitstempel, der sofort zurückkommt, und einen OpenTimestamps-Eintrag, der innerhalb weniger Stunden in einem Bitcoin-Block verankert wird. Danach lässt sich das Datum allein am Bitcoin-Ledger prüfen, auch wenn DateSealed eingestellt wird. Die Nachweisseite nennt die Befehle, mit denen Sie das auf Ihrem eigenen Rechner tun.
+Jeder Eintrag erhält zwei Datumsangaben: einen RFC-3161-Zeitstempel, der sofort zurückkommt, und einen OpenTimestamps-Eintrag, der innerhalb weniger Stunden in einem Bitcoin-Block verankert wird. Danach lässt sich das Datum allein am Bitcoin-Ledger prüfen, auch wenn DateSealed eingestellt wird. Die Nachweisseite nennt die Befehle, mit denen Sie das auf Ihrem eigenen Rechner tun.
 
 Das Limit liegt bei 10 Einträgen pro Stunde und 50 pro Tag je IP-Adresse.
 
 ## Fotos veröffentlichen? Nutzen Sie den Stempel
 
-[Fotos stempeln](/de/stamp) hält den Hash Ihres Originals fest und erzeugt dann in Ihrem Browser eine Kopie mit einem kleinen Abzeichen, das das Datum und die Adresse der Nachweisseite zeigt. Das Foto selbst wird nicht hochgeladen.
+[Fotos stempeln](/de/stamp) hält den Hash Ihres Originals fest und erzeugt dann in Ihrem Browser eine Kopie mit einem kleinen Badge, der das Datum und die Adresse der Nachweisseite zeigt. Das Foto selbst wird nicht hochgeladen.
 
-Der Eintrag bezieht sich auf **das Original**. Die gestempelte Kopie ist eine andere Datei, und das Abzeichen lässt sich wegschneiden; für sich allein beweist es nichts. Veröffentlichen Sie die gestempelte Kopie und bewahren Sie das Original sicher auf.
+Der Eintrag bezieht sich auf **das Original**. Die gestempelte Kopie ist eine andere Datei, und der Badge lässt sich wegschneiden; für sich allein beweist er nichts. Veröffentlichen Sie die gestempelte Kopie und bewahren Sie das Original sicher auf.
 
 ## Was ein Eintrag zeigt – und was nicht
 
@@ -54,7 +54,7 @@ Nutzen Sie zusätzlich förmliche Wege:
 
 | Weg | Wofür er sich eignet |
 |---|---|
-| Notarin oder Notar | Sie können in einem Vermerk festhalten, zu welchem Zeitpunkt ihnen ein privates Schriftstück vorgelegt wurde (§ 43 BeurkG).[^beurkg] |
+| Notarin oder Notar | Bescheinigt, wann ihr oder ihm eine private Urkunde vorgelegt wurde (§ 43 BeurkG).[^beurkg] |
 | Qualifizierter elektronischer Zeitstempel | Wenn Sie die gesetzliche Vermutung nach eIDAS brauchen |
 | DateSealed | Kostenlos: zuerst einmal ein Datum für den laufenden Strom an Fotos, Artikeln und Entwürfen |
 

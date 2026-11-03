@@ -46,7 +46,7 @@ Kayıt **orijinali** gösterir. Damgalı kopya farklı bir dosyadır ve rozet k�
 
 Türkiye'de eser üzerindeki haklar eser sahibine aittir ve herhangi bir kurum aracılığıyla edinilmez; tescil yaptırmamak hak kaybına yol açmaz. Yine de resmî yollar var:
 
-- **Kültür ve Turizm Bakanlığı'nda isteğe bağlı kayıt-tescil.** 5846 sayılı Fikir ve Sanat Eserleri Kanunu'nun 13. maddesine ve ilgili yönetmeliğe dayanır. Beyana dayalı bir işlemdir ve verilen belge hak veren bir belge değildir; bakanlığa göre eser sahibinin "ispat edilmesinde kolaylık sağlar". Başvuru çevrim içi yapılır, belgeler Telif Hakları Genel Müdürlüğü'ne şahsen ya da postayla gönderilir.[^ktb] Bakanlığın ücret sayfasında Kasım 2026'da işlem ücreti 1.970 TL olarak gösteriliyor.[^ktb_fee]
+- **Kültür ve Turizm Bakanlığı'nda isteğe bağlı kayıt-tescil.** 5846 sayılı Fikir ve Sanat Eserleri Kanunu'nun 13. maddesine ve ilgili yönetmeliğe dayanır. Beyana dayalı bir işlemdir ve verilen belge hak veren bir belge değildir; bakanlığa göre "eser sahibinin yani eseri meydana getiren kişi ya da kişilerin kim olduğunun ispat edilmesinde kolaylık sağlar". Başvuru çevrim içi yapılır, belgeler Telif Hakları Genel Müdürlüğü'ne şahsen teslim edilir ya da postayla gönderilir.[^ktb] Bakanlığın ücret sayfasında Kasım 2026'da işlem ücreti 1.970 TL olarak gösteriliyor.[^ktb_fee]
 - **Noter.** Noterlik Kanunu'na göre noterler, getirilen kâğıtlardaki imzayı veya tarihi onaylar (m. 60), bir şeyin hâl ve şeklini tespit eder (m. 61) ve saklanmak üzere getirilen emanetleri muhafaza eder (m. 62).[^noter]
 - **ESHS'lerin zaman damgası.** Kanuni çerçevesi olan elektronik zaman damgası budur.[^5070]
 

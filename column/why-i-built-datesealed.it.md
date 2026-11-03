@@ -30,7 +30,7 @@ Sono tutte soluzioni utili e, per la cosa che davvero devi proteggere, conviene 
 
 DateSealed riceve soltanto l'hash SHA-256 del tuo file o testo, un'impronta di 64 caratteri. L'hash viene calcolato nel tuo browser, quindi foto e bozze non lasciano mai il tuo computer. Ciò che si vuole registrare è proprio il lavoro non ancora pubblicato, e doverlo consegnare per farlo registrare non avrebbe senso.
 
-### Non dovresti doverti fidare di me
+### Non dovresti essere costretto a fidarti di me
 
 Ogni registrazione riceve due date. Una è una marca temporale RFC 3161 firmata dall'autorità di marcatura temporale di DateSealed, restituita subito. L'altra viene ancorata in un blocco di Bitcoin tramite OpenTimestamps, di solito entro poche ore.
 

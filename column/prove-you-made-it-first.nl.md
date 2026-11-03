@@ -11,7 +11,7 @@ In Nederland ontstaat het auteursrecht automatisch zodra je een origineel werk m
 
 ## Elke datum die je zelf hebt, is aan te passen
 
-Het probleem met datumbewijs is eenvoudig: wat je zelf kunt veranderen, kan de tegenpartij je verwijten dat je hebt veranderd.
+Het probleem met datumbewijs is eenvoudig: wat je zelf kunt veranderen, daarvan kan de tegenpartij zeggen dat je het hebt veranderd.
 
 | De datum die je hebt | Waarom die zwak is |
 |---|---|
@@ -24,7 +24,7 @@ Elk daarvan is beter dan niets, maar geen ervan beantwoordt de vraag "had je dit
 
 ## Vastleggen met DateSealed
 
-1. Open de [startpagina](/nl/) en plak een tekst of kies een bestand. Je kunt ook een URL of een SHA-256 die je al hebt invoeren.
+1. Open de [startpagina](/nl/) en plak een tekst of kies een bestand. Je kunt ook een URL invoeren, of een SHA-256 die je al hebt.
 2. Controleer de getoonde SHA-256 en klik op de knop om hem vast te leggen. De hash wordt in je browser berekend; het bestand of de tekst zelf wordt nooit verstuurd.
 3. De vastleggingspagina opent. Download de `.tsr` (ondertekende tijdstempel) en de `.ots` (Bitcoin-bewijs) en bewaar ze **samen met het originele bestand**.
 

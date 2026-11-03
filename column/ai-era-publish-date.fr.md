@@ -44,7 +44,7 @@ Une habitude qu'il faut se rappeler ne résiste pas à une semaine chargée. L'e
 - peut afficher un badge renvoyant vers la page d'enregistrement (facultatif) ;
 - nécessite WordPress 5.8 ou plus et PHP 8.2 ou plus.
 
-[Téléchargez-la sur la page de l'API](/api#wordpress), puis dans WordPress, sous *Extensions*, téléversez le fichier ZIP (*Add New → Upload Plugin*), activez l'extension et ouvrez *Réglages → DateSealed*. Sa publication sur wordpress.org est en cours d'examen.
+[Téléchargez-la sur la page de l'API](/api#wordpress), puis dans WordPress, allez dans *Extensions → Ajouter → Téléverser une extension* (*Plugins → Add New → Upload Plugin*), téléversez le fichier ZIP, activez l'extension et ouvrez *Réglages → DateSealed* (*Settings → DateSealed*). Sa publication sur wordpress.org est en cours d'examen.
 
 ## Ce que l'enregistrement ne dit pas
 

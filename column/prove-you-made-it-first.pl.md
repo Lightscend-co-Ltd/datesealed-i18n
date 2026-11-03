@@ -1,5 +1,5 @@
 title: Jak pokazać, że twoje było pierwsze: data od strony trzeciej dla zdjęć i szkiców
-description: Każdą datę, którą masz u siebie, da się zmienić. Jak za darmo i bez wysyłania plików zapisać, że zdjęcie lub tekst istniały danego dnia, i co to dowodzi.
+description: Każdą datę, którą masz u siebie, da się zmienić. Jak za darmo i bez wysyłania plików zapisać, że zdjęcie lub tekst istniały danego dnia, i czego to dowodzi.
 date: 2026-11-03
 author: Yuki Nakazawa (Lightscend Co., Ltd.)
 ---
@@ -22,7 +22,7 @@ Każda z nich jest lepsza niż nic, ale żadna nie odpowiada na pytanie „czy n
 
 **Prawo autorskie nie wymaga formalności.** Utwór jest chroniony od chwili ustalenia, nawet nieukończony, a ustawa mówi wprost: „Ochrona przysługuje twórcy niezależnie od spełnienia jakichkolwiek formalności”.[^upa] Domniemywa się też, że twórcą jest osoba, której nazwisko w tym charakterze uwidoczniono na egzemplarzach utworu.[^upa] Prawo powstaje więc samo, ale w sporze i tak trzeba wykazać, czyja wersja istniała wcześniej.
 
-**Notariusz poświadcza datę okazania dokumentu.** To jedno z poświadczeń wymienionych w Prawie o notariacie; na żądanie notariusz wpisuje także godzinę i minutę.[^not] Maksymalna taksa za poświadczenie czasu okazania dokumentu to według rozporządzenia z 13 października 2026 r. (ogłoszonego 21 października, wchodzi w życie po 14 dniach) 12 zł za każdą rozpoczętą stronę od 1 do 10.[^taksa] Według Kodeksu cywilnego wzmianka notariusza na dokumencie daje objętej nim czynności prawnej tzw. datę pewną.[^kc]
+**Notariusz poświadcza datę okazania dokumentu.** To jedno z poświadczeń wymienionych w Prawie o notariacie; na żądanie notariusz wpisuje także godzinę i minutę.[^not] Od 5 listopada 2026 r. maksymalna taksa za poświadczenie czasu okazania dokumentu wynosi 12 zł za każdą rozpoczętą stronę od 1 do 10, 10 zł za strony od 11 do 20 i 8 zł od strony 21.[^taksa] Według Kodeksu cywilnego wzmianka notariusza na dokumencie daje objętej nim czynności prawnej tzw. datę pewną.[^kc]
 
 **Kwalifikowany elektroniczny znacznik czasu.** W całej UE korzysta z domniemania dokładności daty i czasu oraz integralności danych, z którymi są połączone.[^eidas] W Polsce Kodeks cywilny dodaje, że czynność prawna w dokumencie elektronicznym opatrzonym takim znacznikiem ma datę pewną od chwili jego opatrzenia.[^kc]
 
@@ -50,7 +50,7 @@ Pokazuje, że **dane pasujące do tego skrótu istniały w zapisanym momencie**.
 
 - Nie pokazuje, że treść jest prawdziwa ani oryginalna.
 - Nie pokazuje, że to ty ją stworzyłeś ani że do ciebie należy. Zapis nie mówi, kto jest autorem.
-- **Nie gwarantuje skutków prawnych.** Nie jest datą pewną w rozumieniu Kodeksu cywilnego ani kwalifikowanym znacznikiem czasu w rozumieniu eIDAS.
+- **Nie gwarantuje skutków prawnych.** Nie nadaje daty pewnej w rozumieniu Kodeksu cywilnego i nie jest kwalifikowanym znacznikiem czasu w rozumieniu eIDAS.
 
 ## Do tej jednej rzeczy, którą naprawdę trzeba chronić
 

@@ -41,10 +41,10 @@ Eine Gewohnheit, an die man denken muss, übersteht keine volle Woche. Das WordP
 
 - berechnet bei jeder Veröffentlichung und Aktualisierung auf Ihrem Server den Hash des Beitragstextes und sendet nur den Hash;
 - **legt bei jeder Aktualisierung einen neuen Eintrag an**, sodass die erste Veröffentlichung nie überschrieben wird und sich eine Versionsgeschichte aufbaut;
-- kann auf Wunsch ein Abzeichen mit Link zur Nachweisseite anzeigen;
+- kann auf Wunsch einen Badge mit Link zur Nachweisseite anzeigen;
 - setzt WordPress 5.8 oder neuer und PHP 8.2 oder neuer voraus.
 
-[Laden Sie es auf der API-Seite herunter](/api#wordpress), laden Sie die ZIP-Datei in WordPress unter *Plugins* hoch (*Add New → Upload Plugin*), aktivieren Sie es und öffnen Sie *Einstellungen → DateSealed*. Ein Eintrag auf wordpress.org ist in Prüfung.
+[Laden Sie es auf der API-Seite herunter](/api#wordpress), laden Sie die ZIP-Datei in WordPress unter *Plugins → Installieren → Plugin hochladen* (*Plugins → Add New → Upload Plugin*) hoch, aktivieren Sie es und öffnen Sie *Einstellungen → DateSealed* (*Settings → DateSealed*). Ein Eintrag auf wordpress.org ist in Prüfung.
 
 ## Was der Eintrag nicht sagt
 

@@ -54,7 +54,7 @@ Bản ghi cho thấy dữ liệu khớp với mã băm đã tồn tại vào th�
 
 Miễn phí và không cần tài khoản. Giao diện có 20 ngôn ngữ. Ngoài ra còn có tính năng đóng dấu cho ảnh, cách ghi lại một URL đã đăng, API và plugin WordPress. Bạn có thể [tải plugin từ trang API](/api#wordpress); việc đưa lên wordpress.org đang được xét duyệt.
 
-Cách dùng cho ảnh và bản thảo của bạn, cùng vị trí của nó bên cạnh việc đăng ký quyền tác giả ở Việt Nam, có trong bài "[Làm sao chứng minh bạn làm ra trước](/vi/column/prove-you-made-it-first)".
+Cách dùng cho ảnh và bản thảo của bạn, cùng vị trí của nó bên cạnh việc đăng ký quyền tác giả ở Việt Nam, có trong bài "[Làm sao chứng tỏ bạn là người làm ra trước](/vi/column/prove-you-made-it-first)".
 
 ## Hãy cho tôi biết chỗ nào vướng
 

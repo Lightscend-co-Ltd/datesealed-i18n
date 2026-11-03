@@ -1,5 +1,5 @@
 title: Mengapa Saya Membuat DateSealed: Catatan dari Pengembang
-description: Berawal dari keinginan melindungi foto properti dari penjiplakan. Apa yang saya temukan, dan aturan untuk catatan gratis yang bahkan saya sendiri tidak bisa ubah.
+description: Berawal dari keinginan melindungi foto properti dari penjiplakan. Apa yang saya temukan, dan aturan untuk catatan gratis yang bahkan tidak bisa saya ubah sendiri.
 date: 2026-11-03
 author: Yuki Nakazawa (Lightscend Co., Ltd.)
 source: https://nkzw.jp/2026/11/02/datesealed_free_publication_date_record_2026_en/
@@ -22,7 +22,7 @@ Saya menelusuri apa yang tersedia di Jepang per November 2026.
 - **Layanan pencatatan berbasis blockchain.** Yang saya temukan ditujukan untuk bisnis, atau berbayar.
 - **Tanda tangan di dalam kamera (C2PA).** Sebagian kamera menandatangani foto saat diambil. Itu menunjukkan dari mana sebuah file berasal, pertanyaan yang berbeda dari kapan file itu ada.
 
-Semuanya berguna, dan untuk satu karya yang benar-benar harus Anda lindungi, sebaiknya gunakan cara-cara itu. Tetapi membayar dan mengajukan permohonan untuk setiap foto atau artikel baru tidaklah realistis. Yang saya inginkan adalah sesuatu yang **gratis, tanpa pendaftaran akun, tanpa mengunggah apa pun, disimpan di tempat yang bahkan pengelolanya tidak bisa ubah, dan berjalan otomatis di WordPress setiap kali terbit**. Saya tidak menemukannya, jadi saya membuatnya.
+Semuanya berguna, dan untuk satu karya yang benar-benar harus Anda lindungi, sebaiknya gunakan cara-cara itu. Tetapi membayar dan mengajukan permohonan untuk setiap foto atau artikel baru tidaklah realistis. Yang saya inginkan adalah sesuatu yang **gratis, tanpa pendaftaran akun, tanpa mengunggah apa pun, disimpan di tempat yang bahkan tidak bisa diubah oleh pengelolanya, dan berjalan otomatis di WordPress setiap kali terbit**. Saya tidak menemukannya, jadi saya membuatnya.
 
 ## Aturan yang saya tetapkan
 

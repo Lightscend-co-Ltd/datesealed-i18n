@@ -59,7 +59,7 @@ Un'abitudine che devi ricordarti non sopravvive a una settimana piena. Il plugin
 1. **Conserva l'originale.** DateSealed tiene solo gli hash.
 2. **Conserva i file di prova.** Tieni `.tsr` e `.ots` insieme all'originale, così puoi verificare senza DateSealed.
 3. **Registra al momento della pubblicazione.** L'ora della registrazione è quella in cui l'hai fatta; ogni giorno di ritardo la indebolisce.
-4. **Non sopravvalutarla.** Per un caso importante, aggiungi il Deposito Opere Inedite della SIAE (per le opere non pubblicate) o una marca temporale qualificata.
+4. **Non sopravvalutarla.** Per un post importante, aggiungi una marca temporale qualificata; per un'opera non ancora pubblicata, anche il Deposito Opere Inedite della SIAE.
 
 [^imperva]: Imperva, «2025 Imperva Bad Bot Report» (15 aprile 2025; dati della rete Imperva) <https://www.imperva.com/blog/2025-imperva-bad-bot-report-how-ai-is-supercharging-the-bot-threat/>
 [^cf1]: Blog di Cloudflare (1° luglio 2025) <https://blog.cloudflare.com/from-googlebot-to-gptbot-whos-crawling-your-site-in-2025/>
@@ -69,4 +69,4 @@ Un'abitudine che devi ricordarti non sopravvive a una settimana piena. Il plugin
 [^neurips]: Krishna et al., «Paraphrasing evades detectors of AI-generated text», NeurIPS 2023 <https://proceedings.neurips.cc/paper_files/paper/2023/hash/575c450013d0e99e4b0ecf82bd1afaa4-Abstract-Conference.html>
 [^wp]: WordPress.org, «Write Posts (Classic Editor)» <https://wordpress.org/documentation/article/write-posts-classic-editor/>
 [^agid]: AgID, «Le marche temporali verso eIDAS» <https://www.agid.gov.it/en/node/1675>
-[^eidas]: Regolamento (UE) n. 910/2014 (eIDAS), articolo 41, paragrafo 2 (testo in inglese, come mantenuto nella legislazione del Regno Unito) <https://www.legislation.gov.uk/eur/2014/910/article/41/adopted>
+[^eidas]: Regolamento (UE) n. 910/2014 (eIDAS), articolo 41, paragrafo 2 (EUR-Lex, versione italiana) <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0910>

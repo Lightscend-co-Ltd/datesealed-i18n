@@ -63,7 +63,7 @@ O registro é feito de forma descentralizada: dependendo da categoria da obra, a
 [^exif]: ExifTool <https://exiftool.org/>
 [^kb]: Artigo KB299648 da Microsoft Knowledge Base (como as datas são tratadas ao copiar ou mover arquivos)
 [^iti]: Instituto Nacional de Tecnologia da Informação (ITI), perguntas frequentes, "Carimbo do Tempo" <https://www.gov.br/iti/pt-br/acesso-a-informacao/perguntas-frequentes/carimbo-do-tempo>
-[^eidas]: Regulamento (UE) n.º 910/2014 (eIDAS), artigo 41.º, n.º 2 (texto em inglês, como mantido na legislação do Reino Unido) <https://www.legislation.gov.uk/eur/2014/910/article/41/adopted>
+[^eidas]: Regulamento (UE) n.º 910/2014 (eIDAS), artigo 41.º, n.º 2 (EUR-Lex, versão portuguesa) <https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32014R0910>
 [^lda]: Lei n.º 9.610, de 19 de fevereiro de 1998, arts. 18 e 19 (Câmara dos Deputados) <https://www2.camara.leg.br/legin/fed/lei/1998/lei-9610-19-fevereiro-1998-365399-publicacaooriginal-1-pl.html>
 [^minc]: Ministério da Cultura, "Perguntas Frequentes" sobre direitos autorais <https://www.gov.br/cultura/pt-br/assuntos/direitos-autorais/perguntas-frequentes/perguntas-frequentes>
 [^eda]: gov.br, "Registrar ou Averbar Direitos Autorais na Biblioteca Nacional" <https://www.gov.br/pt-br/servicos/registrar-ou-averbar-direitos-autorais-na-biblioteca-nacional>

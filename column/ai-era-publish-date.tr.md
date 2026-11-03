@@ -23,7 +23,7 @@ Bunlar her biri kendi yöntemine sahip şirket ya da araştırmacı tahminleri; 
 
 ## Yayın tarihiniz beyandan ibaret
 
-Yayın tarihini siz seçersiniz. WordPress geçmiş bir tarihle yayımlamaya ve yayındaki bir yazının tarihini değiştirmeye izin verir.[^wp] Öbür sitenin tarihi de aynı ölçüde beyandır; iki kişinin "ben önceydim" demesi hiçbir şeyi çözmez. Web arşivleri yardımcı olur, ama sayfanızı yakalayıp yakalamayacakları ya da ne zaman yakalayacakları sizin elinizde değildir.
+Yayın tarihini siz seçersiniz. WordPress geçmiş bir tarihle yayımlamaya ve yayındaki bir yazının tarihini değiştirmeye izin verir.[^wp] Öbür sitenin tarihi de aynı ölçüde beyana dayalıdır; iki kişinin "ben önceydim" demesi hiçbir şeyi çözmez. Web arşivleri yardımcı olur, ama sayfanızı yakalayıp yakalamayacakları ya da ne zaman yakalayacakları sizin elinizde değildir.
 
 İhtiyacınız olan, **sizden başka birinin**, tarihi **yayımladığınız anda**, **sonradan kimsenin değiştiremeyeceği** bir yere yazmasıdır.
 
@@ -59,7 +59,7 @@ Hatırlamanız gereken bir alışkanlık yoğun bir haftayı atlatamaz. DateSeal
 1. **Orijinali saklayın.** DateSealed yalnızca özetleri tutar.
 2. **Kanıt dosyalarını saklayın.** DateSealed olmadan doğrulayabilmek için `.tsr` ve `.ots` dosyalarını orijinalle birlikte tutun.
 3. **Yayın anında kaydedin.** Kaydın zamanı onu oluşturduğunuz zamandır; geciken her gün onu zayıflatır.
-4. **Abartmayın.** Önemli bir durum için Kültür ve Turizm Bakanlığı'nda isteğe bağlı kayıt-tescili ya da bir ESHS'nin zaman damgasını ekleyin; ayrıntılar [rehberde](/tr/column/prove-you-made-it-first).
+4. **Abartmayın.** Önemli bir durum için Kültür ve Turizm Bakanlığı'nda isteğe bağlı kayıt-tescili ya da bir elektronik sertifika hizmet sağlayıcısının (ESHS) zaman damgasını ekleyin; ayrıntılar [rehberde](/tr/column/prove-you-made-it-first).
 
 [^imperva]: Imperva, "2025 Imperva Bad Bot Report" (15 Nisan 2025; Imperva ağ verileri) <https://www.imperva.com/blog/2025-imperva-bad-bot-report-how-ai-is-supercharging-the-bot-threat/>
 [^cf1]: Cloudflare blogu (1 Temmuz 2025) <https://blog.cloudflare.com/from-googlebot-to-gptbot-whos-crawling-your-site-in-2025/>

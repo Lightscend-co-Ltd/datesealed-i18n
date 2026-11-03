@@ -18,7 +18,7 @@ Revisé lo que había en Japón en noviembre de 2026:
 
 - **Fecha cierta ante notario.** 700 yenes por documento. Existe una versión electrónica, pero solo admite archivos de texto, PDF y XML de hasta 10 MB, y se tramita en días hábiles.
 - **Registro ante la Agencia de Asuntos Culturales.** 3000 yenes por obra, en papel y de una en una. Hace presumir que la obra se publicó en la fecha registrada.
-- **Sellos de tiempo de proveedores acreditados por el Ministerio del Interior y Comunicaciones.** Son los que tienen reconocimiento oficial en Japón, con precios pensados sobre todo para empresas.
+- **Sellos de tiempo de proveedores acreditados por el Ministerio de Asuntos Internos y Comunicaciones.** Son los que tienen reconocimiento oficial en Japón, con precios pensados sobre todo para empresas.
 - **Servicios de registro en blockchain.** Los que encontré eran para empresas o de pago.
 - **Firmas en la propia cámara (C2PA).** Algunas cámaras firman la foto al tomarla. Eso indica de dónde viene un archivo, que es una pregunta distinta de cuándo existía.
 
@@ -40,7 +40,7 @@ La clave raíz de la autoridad de sellado se generó en mi propio ordenador y se
 
 ### Nunca borrar, nunca reescribir
 
-Ni siquiera las pantallas de administración permiten borrar un registro ni cambiar su hash o su hora. Un registro solo vale algo si quien lo lleva no puede tocarlo. Cuando actualizas una entrada, el registro anterior se queda y se añade uno nuevo. El plugin de WordPress sigue la misma regla.
+Ni siquiera las pantallas de administración permiten borrar un registro ni cambiar su hash o su hora. Un libro de registro solo vale algo si quien lo lleva no puede tocarlo. Cuando actualizas una entrada, el registro anterior se queda y se añade uno nuevo. El plugin de WordPress sigue la misma regla.
 
 ### Decir de entrada lo que no puede hacer
 

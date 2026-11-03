@@ -1,4 +1,4 @@
-title: Làm sao chứng minh bạn làm ra trước: gắn ngày của bên thứ ba cho ảnh và bản thảo
+title: Làm sao chứng tỏ bạn là người làm ra trước: gắn ngày của bên thứ ba cho ảnh và bản thảo
 description: Mọi mốc ngày bạn giữ đều sửa được. Cách ghi lại miễn phí, không tải gì lên, rằng ảnh hay bản thảo đã tồn tại vào một ngày, và khác gì với đăng ký quyền tác giả.
 date: 2026-11-03
 author: Yuki Nakazawa (Lightscend Co., Ltd.)
@@ -38,7 +38,7 @@ Bản ghi trỏ tới **ảnh gốc**. Bản đã đóng dấu là một tệp k
 
 - **Quyền tác giả phát sinh tự động.** Theo Luật Sở hữu trí tuệ, quyền tác giả phát sinh kể từ khi tác phẩm được sáng tạo và được thể hiện dưới một hình thức vật chất nhất định, dù đã đăng ký hay chưa (Điều 6).[^shtt]
 - **Đăng ký quyền tác giả không bắt buộc nhưng có giá trị chứng cứ.** Việc nộp hồ sơ để được cấp Giấy chứng nhận đăng ký quyền tác giả không phải là thủ tục bắt buộc (Điều 49 khoản 2). Người đã được cấp Giấy chứng nhận không có nghĩa vụ chứng minh quyền tác giả thuộc về mình khi có tranh chấp, trừ trường hợp có chứng cứ ngược lại (Điều 49 khoản 3). Người nộp phải chịu trách nhiệm về thông tin trong hồ sơ (khoản 2a, từ ngày 1/4/2026), và phải nộp phí, lệ phí (khoản 4).[^shtt]
-- **Dấu thời gian là dịch vụ tin cậy có giấy phép.** Luật Giao dịch điện tử xếp dịch vụ cấp dấu thời gian vào nhóm dịch vụ tin cậy; tổ chức cung cấp phải có giấy phép do Bộ Khoa học và Công nghệ cấp (Điều 28), và dấu thời gian được tạo ra dưới dạng chữ ký số (Điều 31). Giá trị làm chứng cứ của thông điệp dữ liệu được xác định căn cứ vào độ tin cậy của cách khởi tạo, lưu trữ và cách bảo đảm tính toàn vẹn (Điều 11).[^gddt]
+- **Dấu thời gian là dịch vụ tin cậy có giấy phép.** Luật Giao dịch điện tử xếp dịch vụ cấp dấu thời gian vào nhóm dịch vụ tin cậy; tổ chức cung cấp phải có giấy phép kinh doanh dịch vụ tin cậy do cơ quan quản lý nhà nước cấp (Điều 28), và dấu thời gian được tạo ra dưới dạng chữ ký số (Điều 31). Giá trị làm chứng cứ của thông điệp dữ liệu được xác định căn cứ vào độ tin cậy của cách khởi tạo, lưu trữ và cách bảo đảm tính toàn vẹn (Điều 11).[^gddt]
 
 Bản ghi DateSealed không phải Giấy chứng nhận đăng ký quyền tác giả, và DateSealed không phải tổ chức cung cấp dịch vụ cấp dấu thời gian được cấp phép tại Việt Nam.
 

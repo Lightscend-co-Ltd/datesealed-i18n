@@ -32,9 +32,9 @@ DateSealed erhält nur den SHA-256-Hash Ihrer Datei oder Ihres Textes, einen Fin
 
 ### Sie sollen mir nicht vertrauen müssen
 
-Jeder Eintrag erhält zwei Daten. Das eine ist ein RFC-3161-Zeitstempel, signiert von DateSealeds eigener Zeitstempelstelle und sofort zurückgegeben. Das andere wird über OpenTimestamps in einem Bitcoin-Block verankert, meist innerhalb weniger Stunden.
+Jeder Eintrag erhält zwei Datumsangaben. Die eine ist ein RFC-3161-Zeitstempel, signiert von DateSealeds eigener Zeitstempelstelle und sofort zurückgegeben. Die andere wird über OpenTimestamps in einem Bitcoin-Block verankert, meist innerhalb weniger Stunden.
 
-Das erste ist nur so vertrauenswürdig wie ich. Das zweite kann ich nicht ändern. Ist es einmal verankert, lässt sich das Datum allein mit der Nachweisdatei (`.ots`) und dem Bitcoin-Ledger prüfen, auch wenn es DateSealed nicht mehr gibt. Jede Nachweisseite nennt die Befehle, mit denen Sie das auf Ihrem eigenen Rechner prüfen können.
+Die erste ist nur so vertrauenswürdig wie ich. Die zweite kann ich nicht ändern. Ist es einmal verankert, lässt sich das Datum allein mit der Nachweisdatei (`.ots`) und dem Bitcoin-Ledger prüfen, auch wenn es DateSealed nicht mehr gibt. Jede Nachweisseite nennt die Befehle, mit denen Sie das auf Ihrem eigenen Rechner prüfen können.
 
 Der Wurzelschlüssel der Zeitstempelstelle wurde auf meinem eigenen Computer erzeugt und wird mit einer Passphrase verschlüsselt aufbewahrt. Auf dem Server liegt nur der Signaturschlüssel.
 

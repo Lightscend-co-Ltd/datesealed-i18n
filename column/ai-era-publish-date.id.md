@@ -1,4 +1,4 @@
-title: Tanggal Terbit Anda Hanyalah Pengakuan Sendiri: Menyimpan Tanggal yang Tak Bisa Diubah di Era AI
+title: Tanggal Terbit Anda Hanyalah Klaim Anda Sendiri: Menyimpan Tanggal yang Tak Bisa Diubah di Era AI
 description: Menulis ulang artikel kini sekejap, dan tanggal CMS tidak membuktikan apa-apa. Cara memberi tiap tulisan tanggal dari pihak ketiga dan mengotomatiskannya di WordPress.
 date: 2026-11-03
 author: Yuki Nakazawa (Lightscend Co., Ltd.)
@@ -21,9 +21,9 @@ Memparafrasekan, menyusun ulang, dan menerjemahkan dulu memakan waktu manusia. S
 
 Ini perkiraan vendor dan peneliti, masing-masing dengan metodenya sendiri, dan tidak satu pun menyatakan peluang tulisan *Anda* dijiplak. Yang terlihat: menulis ulang itu mudah dan sulit dideteksi.
 
-## Tanggal terbit Anda hanyalah pengakuan sendiri
+## Tanggal terbit Anda hanyalah klaim Anda sendiri
 
-Anda yang memilih tanggal terbit. WordPress memungkinkan Anda menerbitkan dengan tanggal mundur dan mengubah tanggal tulisan yang sudah tayang.[^wp] Tanggal di situs lain juga sama-sama pengakuan sendiri, jadi dua orang yang sama-sama berkata "saya lebih dulu" tidak menyelesaikan apa pun. Arsip web membantu, tetapi Anda tidak bisa menentukan apakah atau kapan halaman Anda diarsipkan.
+Anda yang memilih tanggal terbit. WordPress memungkinkan Anda menerbitkan dengan tanggal mundur dan mengubah tanggal tulisan yang sudah tayang.[^wp] Tanggal di situs lain juga sama-sama klaim sendiri, jadi dua orang yang sama-sama berkata "saya lebih dulu" tidak menyelesaikan apa pun. Arsip web membantu, tetapi Anda tidak bisa menentukan apakah atau kapan halaman Anda diarsipkan.
 
 Yang Anda perlukan adalah **pihak selain Anda** yang menuliskan tanggalnya **saat Anda menerbitkan**, di tempat yang **tidak bisa diubah siapa pun sesudahnya**.
 

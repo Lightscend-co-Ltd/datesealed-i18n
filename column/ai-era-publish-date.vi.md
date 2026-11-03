@@ -33,7 +33,7 @@ Ngày đăng do bạn chọn. WordPress cho phép đăng với ngày trong quá 
 - Gắn một **dấu thời gian RFC 3161** trả về ngay, và một **bản ghi Bitcoin** qua OpenTimestamps, được neo trong vài giờ.
 - Không ai có thể ghi lùi thời gian vào sổ cái Bitcoin. Sau khi neo, thời điểm có thể được kiểm tra chỉ bằng tệp bằng chứng và sổ cái, kể cả khi DateSealed không còn.
 
-Chi tiết hơn có trong "[Làm sao chứng minh bạn làm ra trước](/vi/column/prove-you-made-it-first)" và "[Vì sao tôi làm DateSealed](/vi/column/why-i-built-datesealed)".
+Chi tiết hơn có trong "[Làm sao chứng tỏ bạn là người làm ra trước](/vi/column/prove-you-made-it-first)" và "[Vì sao tôi làm DateSealed](/vi/column/why-i-built-datesealed)".
 
 ## Tự động trên WordPress
 
@@ -50,7 +50,7 @@ Một thói quen phải tự nhớ sẽ không trụ nổi qua một tuần bậ
 
 - Không cho biết văn bản do người hay do mô hình viết.
 - Không cho biết nội dung đúng hay là sáng tạo riêng, ai viết, hay ai sở hữu.
-- **Không bảo đảm hiệu lực pháp lý.** Ở Việt Nam, dịch vụ cấp dấu thời gian là dịch vụ tin cậy, do tổ chức có giấy phép của Bộ Khoa học và Công nghệ cung cấp;[^gddt] ở Liên minh châu Âu, vị thế đặc biệt thuộc về dấu thời gian điện tử đủ điều kiện (qualified).[^eidas] Bản ghi DateSealed không thuộc loại nào trong số đó.
+- **Không bảo đảm hiệu lực pháp lý.** Ở Việt Nam, dịch vụ cấp dấu thời gian là dịch vụ tin cậy, do tổ chức có giấy phép kinh doanh dịch vụ tin cậy của cơ quan quản lý nhà nước cung cấp;[^gddt] ở Liên minh châu Âu, vị thế đặc biệt thuộc về dấu thời gian điện tử đủ điều kiện (qualified).[^eidas] Bản ghi DateSealed không thuộc loại nào trong số đó.
 
 "Nó đã tồn tại vào lúc này" là điểm khởi đầu tốt cho một cuộc trao đổi. Tự nó sẽ không giải quyết được tranh chấp. Hãy dùng bản ghi như một chứng cứ đặt cạnh những chứng cứ khác.
 

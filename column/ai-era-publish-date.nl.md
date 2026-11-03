@@ -44,7 +44,7 @@ Een gewoonte waar je aan moet denken, overleeft geen drukke week. De WordPress-p
 - kan een label tonen dat naar de vastleggingspagina linkt (optioneel);
 - vereist WordPress 5.8 of hoger en PHP 8.2 of hoger.
 
-[Download hem op de API-pagina](/api#wordpress), upload het zip-bestand in WordPress onder *Plugins* (*Add New → Upload Plugin*), activeer de plugin en open *Instellingen → DateSealed*. Een vermelding op wordpress.org wordt beoordeeld.
+[Download hem op de API-pagina](/api#wordpress), ga in WordPress naar *Plugins → Nieuwe plugin → Plugin uploaden* (*Plugins → Add New → Upload Plugin*), upload het zip-bestand, activeer de plugin en open *Instellingen → DateSealed* (*Settings → DateSealed*). De vermelding op wordpress.org is nog in behandeling.
 
 ## Wat de vastlegging niet zegt
 
@@ -58,8 +58,8 @@ Een gewoonte waar je aan moet denken, overleeft geen drukke week. De WordPress-p
 
 1. **Bewaar het origineel.** DateSealed bewaart alleen hashes.
 2. **Bewaar de bewijsbestanden.** Zet de `.tsr` en de `.ots` bij het origineel, zodat je zonder DateSealed kunt controleren.
-3. **Leg vast bij het publiceren.** Het tijdstip van de vastlegging is het moment waarop je hem maakt; elke dag uitstel maakt hem zwakker.
-4. **Overschat hem niet.** Gaat het ergens echt om, voeg dan een i-DEPOT[^op] of een gekwalificeerde tijdstempel toe.
+3. **Leg vast bij het publiceren.** Het tijdstip van de vastlegging is het moment waarop je die maakt; elke dag uitstel maakt de vastlegging zwakker.
+4. **Overschat de vastlegging niet.** Gaat het ergens echt om, voeg dan een i-DEPOT[^op] of een gekwalificeerde tijdstempel toe.
 
 [^imperva]: Imperva, "2025 Imperva Bad Bot Report" (15 april 2025; gegevens uit het Imperva-netwerk) <https://www.imperva.com/blog/2025-imperva-bad-bot-report-how-ai-is-supercharging-the-bot-threat/>
 [^cf1]: Cloudflare-blog (1 juli 2025) <https://blog.cloudflare.com/from-googlebot-to-gptbot-whos-crawling-your-site-in-2025/>

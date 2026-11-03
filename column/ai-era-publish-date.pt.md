@@ -69,4 +69,4 @@ Um hábito que depende de memória não sobrevive a uma semana corrida. O plugin
 [^neurips]: Krishna et al., "Paraphrasing evades detectors of AI-generated text", NeurIPS 2023 <https://proceedings.neurips.cc/paper_files/paper/2023/hash/575c450013d0e99e4b0ecf82bd1afaa4-Abstract-Conference.html>
 [^wp]: WordPress.org, "Write Posts (Classic Editor)" <https://wordpress.org/documentation/article/write-posts-classic-editor/>
 [^iti]: Instituto Nacional de Tecnologia da Informação (ITI), perguntas frequentes, "Carimbo do Tempo" <https://www.gov.br/iti/pt-br/acesso-a-informacao/perguntas-frequentes/carimbo-do-tempo>
-[^eidas]: Regulamento (UE) n.º 910/2014 (eIDAS), artigo 41.º, n.º 2 (texto em inglês, como mantido na legislação do Reino Unido) <https://www.legislation.gov.uk/eur/2014/910/article/41/adopted>
+[^eidas]: Regulamento (UE) n.º 910/2014 (eIDAS), artigo 41.º, n.º 2 (EUR-Lex, versão portuguesa) <https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32014R0910>

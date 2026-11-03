@@ -63,6 +63,6 @@ Secondo la SIAE, il deposito fornisce «una prova certa dell'esistenza dell'oper
 [^exif]: ExifTool <https://exiftool.org/>
 [^kb]: Articolo KB299648 della Microsoft Knowledge Base (come vengono gestite le date quando si copiano o spostano i file)
 [^agid]: AgID, «Le marche temporali verso eIDAS» <https://www.agid.gov.it/en/node/1675>
-[^eidas]: Regolamento (UE) n. 910/2014 (eIDAS), articolo 41, paragrafo 2 (testo in inglese, come mantenuto nella legislazione del Regno Unito) <https://www.legislation.gov.uk/eur/2014/910/article/41/adopted>
+[^eidas]: Regolamento (UE) n. 910/2014 (eIDAS), articolo 41, paragrafo 2 (EUR-Lex, versione italiana) <https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R0910>
 [^l633]: Legge 22 aprile 1941, n. 633, art. 6 (Normattiva) <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633~art6>
 [^siae]: SIAE, «Deposito Opere Inedite» <https://www.siae.it/it/cosa-facciamo/altri-servizi/deposito-opere-inedite/>

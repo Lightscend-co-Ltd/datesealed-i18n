@@ -1,4 +1,4 @@
-title: Por que criei o DateSealed: um recado do desenvolvedor
+title: Por que criei o DateSealed: uma nota do desenvolvedor
 description: Começou com fotos de imóveis que eu queria proteger de cópias. O que encontrei nas opções existentes e as regras de um registro grátis que nem eu posso reescrever.
 date: 2026-11-03
 author: Yuki Nakazawa (Lightscend Co., Ltd.)
