@@ -10,13 +10,28 @@ Thank you. A few rules keep the translations safe and consistent.
 6. **Brand and technical names stay in Latin letters:** DateSealed, Bitcoin, OpenTimestamps, RFC 3161, SHA-256, .tsr, .ots, WordPress, API.
 7. **Right-to-left languages (Arabic):** translate normally; do not insert direction marks.
 
+## Articles (`column/`)
+
+The articles follow the same rules, plus:
+
+8. **Write for readers in your country.** Each version uses local examples (how authors usually show they had something first, registration or deposit offices, electronic timestamp law). Keep that; do not translate the English examples back in.
+9. **Every local fact needs an official source.** A law, fee, statistic or office goes in a footnote (`[^name]: … <https://…>`) linking a government, court, standards body or the organisation that published the figure. If a fee has no date on the official page, say when it was checked. Do not add a fact you could not check.
+10. **Keep the header and the links.** The lines above `---` (`title`, `description`, `date`, `author`, optional `updated` and `source`) stay. Links to the site keep the language prefix (`/fr/stamp`, `/fr/column/…`); the WordPress plugin link stays `/api#wordpress`.
+11. **The developer's article** (`why-i-built-datesealed`) is a personal account. Fix the language, not the story.
+
 ## Checking your change
 
 ```
 python scripts/validate_lang.py fr
 ```
 
-prints `ok` when keys, order and basic rules are fine. A pull request runs the same check automatically, so you do not have to.
+prints `ok` when keys, order and basic rules are fine. For the articles:
+
+```
+python scripts/validate_column.py fr
+```
+
+checks the header, footnotes and site links. A pull request runs the same check automatically, so you do not have to.
 
 ## Licence and credit
 

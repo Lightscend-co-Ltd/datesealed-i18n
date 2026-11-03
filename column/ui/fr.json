@@ -1,0 +1,11 @@
+{
+ "title": "Articles",
+ "lead": "Le mot du développeur, et des guides pour enregistrer à quel moment quelque chose existait.",
+ "by": "Par",
+ "published": "Publié le",
+ "updated": "Mis à jour le",
+ "back": "Tous les articles",
+ "try": "Essayer DateSealed",
+ "try_p": "Collez un paragraphe ou choisissez un fichier. L'empreinte est calculée dans votre navigateur, rien n'est envoyé.",
+ "source": "Une version plus longue de cet article se trouve sur le blog de l'auteur"
+}

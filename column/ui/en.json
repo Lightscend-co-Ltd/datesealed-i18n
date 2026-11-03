@@ -1,0 +1,11 @@
+{
+ "title": "Articles",
+ "lead": "Notes from the developer, and guides on recording when something existed.",
+ "by": "By",
+ "published": "Published",
+ "updated": "Updated",
+ "back": "All articles",
+ "try": "Try DateSealed",
+ "try_p": "Paste a paragraph or pick a file. The hash is made in your browser and nothing is uploaded.",
+ "source": "A longer version of this article is on the author's blog"
+}

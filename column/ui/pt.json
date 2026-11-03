@@ -1,0 +1,11 @@
+{
+ "title": "Artigos",
+ "lead": "Recados do desenvolvedor e guias para registrar quando algo existia.",
+ "by": "Por",
+ "published": "Publicado em",
+ "updated": "Atualizado em",
+ "back": "Todos os artigos",
+ "try": "Experimente o DateSealed",
+ "try_p": "Cole um parágrafo ou escolha um arquivo. O hash é gerado no seu navegador e nada é enviado.",
+ "source": "Uma versão mais longa deste artigo está no blog do autor"
+}

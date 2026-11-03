@@ -1,0 +1,11 @@
+{
+ "title": "Artículos",
+ "lead": "Notas del desarrollador y guías para dejar constancia de cuándo existía algo.",
+ "by": "Por",
+ "published": "Publicado el",
+ "updated": "Actualizado el",
+ "back": "Todos los artículos",
+ "try": "Prueba DateSealed",
+ "try_p": "Pega un párrafo o elige un archivo. El hash se calcula en tu navegador y no se sube nada.",
+ "source": "Hay una versión más larga de este artículo en el blog del autor"
+}

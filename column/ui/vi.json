@@ -1,0 +1,11 @@
+{
+ "title": "Bài viết",
+ "lead": "Ghi chép của người phát triển, và hướng dẫn ghi lại thời điểm một thứ đã tồn tại.",
+ "by": "Tác giả",
+ "published": "Đăng ngày",
+ "updated": "Cập nhật",
+ "back": "Tất cả bài viết",
+ "try": "Dùng thử DateSealed",
+ "try_p": "Dán một đoạn văn hoặc chọn tệp. Mã băm được tạo trong trình duyệt của bạn và không có gì được tải lên.",
+ "source": "Bản dài hơn của bài này có trên blog của tác giả"
+}

@@ -1,0 +1,11 @@
+{
+ "title": "Artikel",
+ "lead": "Catatan dari pengembang, dan panduan mencatat kapan sesuatu sudah ada.",
+ "by": "Oleh",
+ "published": "Terbit",
+ "updated": "Diperbarui",
+ "back": "Semua artikel",
+ "try": "Coba DateSealed",
+ "try_p": "Tempel satu paragraf atau pilih file. Hash dibuat di browser Anda dan tidak ada yang diunggah.",
+ "source": "Versi lebih panjang artikel ini ada di blog penulis"
+}

@@ -34,8 +34,16 @@ body:
     id: where
     attributes:
       label: Where did you see it? / どのページ・どの場所か
-      description: A page address, or the key name in lang/<code>.json if you know it.
+      description: A page address (an article, too), or the key name in lang/<code>.json if you know it.
       placeholder: https://datesealed.com/fr/terms
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is it? / 種類
+      options:
+        - "Wording / 言い回し"
+        - "A fact, fee or law that is wrong or out of date / 誤った・古い事実、料金、法律"
+        - "A source link that does not open / 開けない出典リンク"
   - type: textarea
     id: current
     attributes:

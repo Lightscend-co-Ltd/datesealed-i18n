@@ -1,0 +1,11 @@
+{
+ "title": "Artikel",
+ "lead": "Notizen des Entwicklers und Anleitungen, wie Sie festhalten, wann etwas existierte.",
+ "by": "Von",
+ "published": "Veröffentlicht",
+ "updated": "Aktualisiert",
+ "back": "Alle Artikel",
+ "try": "DateSealed ausprobieren",
+ "try_p": "Fügen Sie einen Absatz ein oder wählen Sie eine Datei. Der Hash entsteht in Ihrem Browser, nichts wird hochgeladen.",
+ "source": "Eine ausführlichere Fassung dieses Artikels steht im Blog des Autors"
+}

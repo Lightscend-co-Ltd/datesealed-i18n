@@ -1,0 +1,11 @@
+{
+ "title": "Artikelen",
+ "lead": "Notities van de ontwikkelaar en handleidingen om vast te leggen wanneer iets bestond.",
+ "by": "Door",
+ "published": "Gepubliceerd",
+ "updated": "Bijgewerkt",
+ "back": "Alle artikelen",
+ "try": "Probeer DateSealed",
+ "try_p": "Plak een alinea of kies een bestand. De hash wordt in je browser gemaakt en er wordt niets geüpload.",
+ "source": "Een uitgebreidere versie van dit artikel staat op de blog van de auteur"
+}
